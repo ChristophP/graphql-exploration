@@ -1,2 +1,2 @@
 # graphql-exploration
-Trying out libs and best practices for efiicient querying with graphql
+Trying out libs and best practices for efficient querying with graphql
